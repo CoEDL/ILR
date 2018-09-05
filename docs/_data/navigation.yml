@@ -1,0 +1,12 @@
+pages:
+  - title: Getting Started
+    children:
+      - title: "Tummy"
+        url: /tummy/
+      - title: "test"
+        url: /tummy/
+
+  - title: Customization
+    children:
+      - title: "Configuration"
+        url: /tummy/

@@ -59,12 +59,7 @@ defaults:
       author_profile: false
       comments: true
       share: true
-      toc: true
+      toc: false
       sidebar:
-        - title: "Title"
-          image: http://placehold.it/350x250
-          image_alt: "image"
-          text: "Some text here."
-        - title: "Another Title"
-          text: "More text here."
+        nav: "pages"
       related: true

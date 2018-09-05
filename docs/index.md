@@ -4,7 +4,6 @@ sidebar:
           image: http://placehold.it/350x250
           image_alt: "image"
           text: "Some text here."
-		  url: /docs/main/
         - title: "Another Title"
           text: "More text here."
 ---
@@ -12,7 +11,11 @@ sidebar:
 
 ## Indigenous Language Robots
 
+
+
 Work in progress this is a test
+
+[link test](/docs/main/)
 
 You can use the [editor on GitHub](https://github.com/CoEDL/ILR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

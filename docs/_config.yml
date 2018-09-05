@@ -55,7 +55,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
       comments: true
       share: true
       sidebar:
@@ -63,7 +62,6 @@ defaults:
           image: http://placehold.it/350x250
           image_alt: "image"
           text: "Some text here."
-          url: http://gdurantin.com 
         - title: "Another Title"
           text: "More text here."
-related: true
+      related: true

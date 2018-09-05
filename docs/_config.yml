@@ -40,6 +40,7 @@ plugins:
 # to override the default setting.
 include:
   - _pages
+  - media
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock

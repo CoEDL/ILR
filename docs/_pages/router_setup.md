@@ -6,6 +6,7 @@ toc: false
 ---
 
 The router is responsible for ...
+{% include figure image_path="/media/router/1.png" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 
 You can use the [editor on GitHub](https://github.com/CoEDL/ILR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

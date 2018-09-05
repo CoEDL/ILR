@@ -58,6 +58,7 @@ defaults:
       read_time: true
       comments: true
       share: true
+      search: true
       sidebar:
         nav: "docs"
 related: true

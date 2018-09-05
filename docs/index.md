@@ -4,7 +4,7 @@ sidebar:
           image: http://placehold.it/350x250
           image_alt: "image"
           text: "Some text here."
-          url:/docs/main/
+          url: https://coedl.github.io/ILR/docs/main/
         - title: "Another Title"
           text: "More text here."
 ---

@@ -2,7 +2,7 @@
 title: "Router Setup"
 permalink: /router_setup/
 excerpt: "How to quickly install and setup the router for use in the Indigenous Language Robots project."
-toc: false
+toc: true
 ---
 
 The router is responsible for setting up the local network used by all components of the robot to talk to each other.

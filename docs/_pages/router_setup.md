@@ -9,7 +9,8 @@ The router is responsible for ...
 
 {% include figure image_path="/media/router/1.png" alt="Screenshot of the router interface"%}
 
-[blabl blab labl]{: .notice--warning}
+**Watch out** blabl blab labl
+{: .notice--warning}
 
 
 You can use the [editor on GitHub](https://github.com/CoEDL/ILR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

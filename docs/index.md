@@ -16,7 +16,7 @@ sidebar:
 
 Work in progress this is a test
 
-[link test](/docs/main/)
+[link test](https://coedl.github.io/ILR/docs/main/)
 
 You can use the [editor on GitHub](https://github.com/CoEDL/ILR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

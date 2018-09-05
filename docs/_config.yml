@@ -60,5 +60,11 @@ defaults:
       share: true
       search: true
       sidebar:
-        nav: "docs"
+        - title: "Title"
+          image: http://placehold.it/350x250
+          image_alt: "image"
+          text: "Some text here."
+          url: http://gdurantin.com 
+        - title: "Another Title"
+          text: "More text here."
 related: true

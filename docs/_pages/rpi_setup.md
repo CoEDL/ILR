@@ -1,7 +1,7 @@
 ﻿---
-title: "Router Setup"
-permalink: /router_setup/
-excerpt: "How to quickly install and setup the router for use in the Indigenous Language Robots project."
+title: "Raspberry Pi Setup"
+permalink: /rpi_setup/
+excerpt: "How to quickly install and setup the Raspberry Pi for use in the Indigenous Language Robots project."
 
 
 toc: true
@@ -16,8 +16,11 @@ The router is responsible for setting up the local network used by all component
 The router we are using in this project is a TP Link mini router TL-WR810N. When unpacking it, the box should contain:
 
 -the router 
--one micro-usb cable (used for powering the router)
+-one micro-usb cable (used to power the router)
 -one ethernet cable (we will use it later to connect the [raspberry pi](/rpi_setup/) to the router)
+
+
+![image-left](/media/router/router.jpg){: .align-left height="50%" width="50%"} This is the router you will find
 
 ## Connecting
 

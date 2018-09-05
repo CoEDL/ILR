@@ -5,12 +5,20 @@ excerpt: "How to quickly install and setup the router for use in the Indigenous 
 toc: false
 ---
 
-The router is responsible for ...
+The router is responsible for setting up the local network used by all components of the robot to talk to each other.
+
+1. Unpacking the router
+
+2. Connecting
+
+## Unpacking the router
+
+## Connecting
 
 {% include figure image_path="/media/router/1.png" alt="Screenshot of the router interface"%}
 
 **Watch out** blabl blab labl
-{: .notice--warning}
+{: .notice--danger}
 
 
 You can use the [editor on GitHub](https://github.com/CoEDL/ILR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

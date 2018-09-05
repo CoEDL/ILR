@@ -1,8 +1,10 @@
 pages:
   - title: Getting Started
     children:
+      - title: "Router"
+        url: /router_setup/
       - title: "Tummy"
-        url: /tummy/
+        url: /tummy_setup/
       - title: "test"
         url: /tummy/
 

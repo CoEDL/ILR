@@ -1,17 +1,12 @@
 ﻿---
-title: "Quick-Start Guide"
-permalink: /tummy/
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
-last_modified_at: 2018-07-19T11:31:38-04:00
-redirect_from:
-  - /theme-setup/
-toc: true
+title: "Router Setup"
+permalink: /router_setup/
+excerpt: "How to quickly install and setup the router for use in the Indigenous Language Robots project."
+toc: false
 ---
 
+The router is responsible for ...
 
-## Indigenous Language Robots
-
-Work in progress this is a test
 
 You can use the [editor on GitHub](https://github.com/CoEDL/ILR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

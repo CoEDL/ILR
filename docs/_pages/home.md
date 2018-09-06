@@ -4,7 +4,7 @@ permalink: /
 excerpt: "How to quickly install and setup an Indigenous Language Robot."
 toc: false
 share: false
-<!--- This is a test comment 2 ---!>
+
 gallery:
   - url: https://www.arc.gov.au/
     image_path: /ILR/assets/logos/ARC_stacked.svg

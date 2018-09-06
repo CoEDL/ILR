@@ -20,13 +20,16 @@ The router we are using in this project is a TP Link mini router TL-WR810N. When
 - one micro-usb cable (used for powering the router)
 - one ethernet cable (we will use it later to connect the [raspberry pi](/ILR/rpi_setup/) to the router)
 
-<figure>
-  <img src="/ILR/assets/router/router.jpg" alt="this is a blabar image">
-  <figcaption>This is a figure caption.</figcaption>
-</figure>
+![image-left](/ILR/assets/router/router.jpg){: .align-left}  blabdjfndnoaf
 
-<figure>
-  <img src="/ILR/assets/router/router.jpg" alt="this is a terrific image" width="300">
+![image-left](/ILR/assets/router/router.jpg){: .align-left width="300px"}  jndjsnjcnsacomoaa
+
+<img src="/ILR/assets/router/router.jpg" alt="this is a blabar image" width="300px">
+
+<img src="/ILR/assets/router/router.jpg" alt="this is a blabar image2" width="50%">
+
+<figure class="half">
+  <img src="/ILR/assets/router/router.jpg" alt="this is a terrific image">
   <figcaption>This is a figure caption.</figcaption>
 </figure>
 

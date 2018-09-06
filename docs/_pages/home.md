@@ -5,10 +5,7 @@ excerpt: "How to quickly install and setup an Indigenous Language Robot."
 toc: false
 share: false
 
-{::comment}
-This is a comment which is
-completely ignored.
-{:/comment}
+# This is a comment
 
 gallery:
   - url: https://www.arc.gov.au/

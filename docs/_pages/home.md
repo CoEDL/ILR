@@ -9,9 +9,9 @@ gallery:
     image_path: /ILR/assets/logos/ARC_stacked.svg
   - url: http://www.dynamicsoflanguage.edu.au/
     image_path: /ILR/assets/logos/coedl-stacked.svg
-  - https://www.uq.edu.au/
+  - url: https://www.uq.edu.au/
     image_path: /ILR/assets/logos/uq-logo-stacked.svg
-  - http://www.ngukurrlc.org.au/
+  - url: http://www.ngukurrlc.org.au/
     image_path: /ILR/assets/logos/nglc-logo-stacked.svg
 
 ---

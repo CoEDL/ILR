@@ -1,14 +1,17 @@
 pages:
+  - title: The project
+    url: /
+
   - title: Setting up your robot
     children:
       - title: "Raspberry Pi setup"
         url: /rpi_setup/
       - title: "Router setup"
         url: /router_setup/
-      - title: "Tummy"
+      - title: "Head Tablet setup"
+        url: /head_setup/
+      - title: "Tummy Tablet setup"
         url: /tummy_setup/
-      - title: "test"
-        url: /tummy/
 
   - title: Customization
     children:

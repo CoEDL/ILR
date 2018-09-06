@@ -12,8 +12,5 @@ pages:
         url: /head_setup/
       - title: "Tummy Tablet setup"
         url: /tummy_setup/
-
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /tummy/
+      - title: "Final assembly"
+        url: /assembly/

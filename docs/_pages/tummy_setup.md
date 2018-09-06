@@ -1,7 +1,7 @@
 ﻿---
-title: "Quick-Start Guide"
+title: "Tummy tablet setup"
 permalink: /tummy_setup/
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
+excerpt: "How to quickly install and setup the Tummy Tablet for use in the Indigenous Language Robots project."
 last_modified_at: 2018-07-19T11:31:38-04:00
 redirect_from:
   - /theme-setup/

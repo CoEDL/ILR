@@ -21,12 +21,12 @@ The router we are using in this project is a TP Link mini router TL-WR810N. When
 - one ethernet cable (we will use it later to connect the [raspberry pi](/ILR/rpi_setup/) to the router)
 
 <figure>
-  <img src="/assets/router/router.jpg" alt="this is a placeholder image">
+  <img src="/ILR/assets/router/router.jpg" alt="this is a blabar image">
   <figcaption>This is a figure caption.</figcaption>
 </figure>
 
 <figure>
-  <img src="https://github.com/CoEDL/ILR/blob/master/docs/media/router/router.jpg" alt="this is a placeholder image 2">
+  <img src="/ILR/assets/router/router.jpg" alt="this is a terrific image" width="300">
   <figcaption>This is a figure caption.</figcaption>
 </figure>
 

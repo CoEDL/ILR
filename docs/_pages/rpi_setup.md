@@ -21,7 +21,7 @@ The router we are using in this project is a TP Link mini router TL-WR810N. When
 -one ethernet cable (we will use it later to connect the [raspberry pi](/rpi_setup/) to the router)
 
 
-![image-left](/media/router/router.jpg){: .align-left height="50%" width="50%"} This is the router you will find
+![image-left](/ILR/assets/router/router.jpg){: .align-left height="50%" width="50%"} This is the router you will find
 
 ## Connecting
 

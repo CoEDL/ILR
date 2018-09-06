@@ -7,6 +7,7 @@ excerpt: "How to quickly install and setup the Raspberry Pi for use in the Indig
 toc: true
 toc_icon: "clipboard-list"
 toc_label: "Steps"
+toc_sticky: true
 ---
 
 The router is responsible for setting up the local network used by all components of the robot to talk to each other.

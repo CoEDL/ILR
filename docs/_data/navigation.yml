@@ -1,7 +1,9 @@
 pages:
-  - title: Getting Started
+  - title: Setting up your robot
     children:
-      - title: "Router"
+      - title: "Raspberry Pi setup"
+        url: /rpi_setup/
+      - title: "Router setup"
         url: /router_setup/
       - title: "Tummy"
         url: /tummy_setup/

@@ -1,7 +1,7 @@
 ﻿---
-title: "Router Setup"
-permalink: /router_setup/
-excerpt: "How to quickly install and setup the router for use in the Indigenous Language Robots project."
+title: "Head tablet Setup"
+permalink: /head_setup/
+excerpt: "How to quickly install and setup the head tablet for use in the Indigenous Language Robots project."
 
 
 toc: true

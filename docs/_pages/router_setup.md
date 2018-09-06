@@ -20,6 +20,17 @@ The router we are using in this project is a TP Link mini router TL-WR810N. When
 - one micro-usb cable (used for powering the router)
 - one ethernet cable (we will use it later to connect the [raspberry pi](/ILR/rpi_setup/) to the router)
 
+<figure>
+  <img src="/media/router/router.jpg" alt="this is a placeholder image">
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/CoEDL/ILR/blob/master/docs/media/router/router.jpg" alt="this is a placeholder image 2">
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
+
+
 {% include figure image_path="/media/router/router.jpg" alt="Screenshot of the router interface" width="300"%}
 
 ## Connecting

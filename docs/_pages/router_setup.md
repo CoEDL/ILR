@@ -22,6 +22,8 @@ The router we are using in this project is a TP Link mini router TL-WR810N. When
 
 <img src="/media/router/router.jpg" alt="this is an image">
 
+{% include figure image_path="/media/router/router.jpg" alt="Screenshot of the router interface"%}
+
 ## Connecting
 
 {% include figure image_path="/media/router/1.png" alt="Screenshot of the router interface"%}

@@ -3,6 +3,7 @@ title: "Indigenous Language Robots Documentation"
 permalink: /
 excerpt: "How to quickly install and setup an Indigenous Language Robot."
 toc: false
+share: false
 
 gallery:
   - url: https://www.arc.gov.au/
@@ -19,4 +20,7 @@ gallery:
 
 This site contains the documentation of the Indigenous Language Robots project. It contains step-by-step instructions on how to setup your own robot, accessible from the navigation bar on the left.
 
-{% include gallery id="gallery" %}
+![](/ILR/assets/logos/ARC_stacked.svg){: .align-center width="20%"} &nbsp
+![](/ILR/assets/logos/coedl-stacked.svg){: .align-center width="20%"} &nbsp
+![](/ILR/assets/logos/uq-logo-stacked.svg){: .align-center width="20%"} &nbsp
+![](/ILR/assets/logos/nglc-logo-stacked.svg){: .align-center width="20%"} &nbsp

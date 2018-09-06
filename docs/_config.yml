@@ -41,6 +41,7 @@ plugins:
 include:
   - _pages
   - assets
+  - _includes
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock

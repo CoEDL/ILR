@@ -20,25 +20,25 @@ The router we are using in this project is a TP Link mini router TL-WR810N. When
 - one micro-usb cable (used for powering the router)
 - one ethernet cable (we will use it later to connect the [raspberry pi](/ILR/rpi_setup/) to the router)
 
-![image-left](/ILR/assets/router/router.jpg){: .align-left}  blabdjfndnoaf
+![router image](/ILR/assets/router/router.jpg){: .align-left width="50%"}  Prior to setting up the router, look at the back of it and note the SSID and password (they will be needed to connect to the router)
 
-![image-left](/ILR/assets/router/router.jpg){: .align-left width="300px"}  jndjsnjcnsacomoaa
+## Connecting to the router
 
-<img src="/ILR/assets/router/router.jpg" alt="this is a blabar image" width="300px">
+Power the router and, from your computer, connect to it via Wifi (The network id and password will be the one at the back of the router)
 
-<img src="/ILR/assets/router/router.jpg" alt="this is a blabar image2" width="50%">
+Once your computer is connected to the router local network, open a web browser and type *168.192.0.1* to access the router settings page. The browser should display the page below:
 
-<figure class="half">
-  <img src="/ILR/assets/router/router.jpg" alt="this is a terrific image">
-  <figcaption>This is a figure caption.</figcaption>
-</figure>
+![admin interface](/ILR/assets/router/router.jpg){: .align-center width="100%"}  
 
+Enter the default login (*admin*) and password (*admin*) to access the router settings page.
 
-{% include figure image_path="/assets/router/router.jpg" alt="Screenshot of the router interface" width="300"%}
-
-## Connecting
+**Note**: On TP Link wifi, the interface can also be accessed by typing *tplinkwifi.net/* in the browser. It is also possible to change the admin login and password from this interface (but not necessary for the robot to work).
+{: .notice--info}
 
 {% include figure image_path="/assets/router/1.png" alt="Screenshot of the router interface"%}
+
+## Router settings
+
 
 **Watch out** blabl blab labl
 {: .notice--danger}

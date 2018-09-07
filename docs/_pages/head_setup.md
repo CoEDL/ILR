@@ -10,73 +10,56 @@ toc_label: "Steps"
 toc_sticky: true
 ---
 
-The router is responsible for setting up the local network used by all components of the robot to talk to each other.
+The head tablet is responsible for the social components of interaction, by displaying the eyes of the robot. 
 
-## Unpacking the router
+## Unpacking the tablet
 
-The router we are using in this project is a TP Link mini router TL-WR810N. When unpacking it, the box should contain:
+The tablet used for the head is a LENOVO 7" tablet. When unpacking it, the box should also contain a micro-usb cable that we will use to power the tablet
 
-- the router 
-- one micro-usb cable (used for powering the router)
-- one ethernet cable (we will use it later to connect the [raspberry pi](/ILR/rpi_setup/) to the router)
+### Setting up an account for the robot
 
-![router image](/ILR/assets/router/router.jpg){: .align-left width="50%"}  Prior to setting up the router, look at the back of it and note the SSID and password (they will be needed to connect to the router)
+The apps for the head and tummy tablet will be downloaded from the Google Play Store. When setting up these tablets, you will need to link them to a gmail account used for Google Play Store. 
 
-## Connecting to the router
-{: .text-nowrap}
+Create an email address for the robot, and make sure you keep records of the address and password. 
 
-Power the router and, from your computer, connect to it via Wifi (The network id and password will be the one at the back of the router)
+**Warning**: The head and tummy apps are currently available only as a closed released. This means the address you use to download them must be registered before you can doanload the app. If you have created a new address at this stage, contact the ILR team and ask them to add the mail address to the list of testers.
+{: .notice--danger}
 
-Once your computer is connected to the router local network, open a web browser and type *192.168.0.1* to access the router settings page. The browser should display the page below:
+![gmail connecting](/ILR/assets/head/1.png){: .align-left width="50%"}  
+When you start the tablet for the first time, you will be asked to link it to a gmail account (cf. screenshot). Enter the robot email address (this can be modified later if you make a mistake or change the address).
 
-![admin interface](/ILR/assets/router/1.png){: .align-center width="100%"}  
+The first initialization of the tablet will likely include selecting the tablet language and optionally registering for the LENOVO ID program. 
 
-Enter the default login (*admin*) and password (*admin*) to access the router settings page.
+## Downloading the app
 
-**Note**: On TP Link wifi, the interface can also be accessed by typing *tplinkwifi.net/* in the browser. It is also possible to change the admin login and password from this interface (but not necessary for the robot to work).
+**Warning**: At this stage, your tablet should be connected to a network with internet access
+{: .notice--danger}
+
+1. Make sure you connect your tablet to the internet (you can "drag" the settings menu from the top of the tablet screen to connect to another network).
+
+2. Open a web browser, and go to `https://play.google.com/app/testing/com.UQ.ILR_Head`. You should see the following :
+
+![ILR download](/ILR/assets/head/6.png){: .align-center width="50%"}
+
+3. Hit *Become a tester*. This will take you to a new page confirming that you joined the testing.
+
+![ILR download](/ILR/assets/head/7.png){: .align-center width="50%"}
+
+4. Hit *Download it on Google Play*. This will take you to the google play store and give you theoption to download the app.
+
+**Note**: When you first open the Google Play store on a new tablet, the tablet may ask you to re-enter the email details. Make sure you use the robot email address.
 {: .notice--info}
 
-## Router settings
+5. Hit *Accept*. The Google Play store will ask you to grant access to "Wifi connection information" to the app. Hit *Allow* and the app should download.
 
-Once in the router settings interface, apply the settings below one by one:
+![ILR download](/ILR/assets/head/9.png){: .align-center width="50%"}
 
-**Warning**: These changes will prompt the router to restart. You will have to connect to it again before you can proceed.
-{: .notice--warning}
+6. Once the app is downloaded, turn on the robot [router](/ILR/router_setup) and connect the tablet to its network (in the example below, the robot network is called *Stripey*)
 
-1. Set the **Operation Mode** as *Access Point*
+![ILR download](/ILR/assets/head/11.png){: .align-center width="50%"}
 
-![setting access point](/ILR/assets/router/2.png){: .align-center width="100%"}  
+7. When you start the app, you should now see the following appear:
 
-2. In **Wireless->Basic Settings**,  change the network name (give it the name of your robot, for instance).
+![ILR download](/ILR/assets/head/12.png){: .align-center width="80%"}
 
-![setting access point](/ILR/assets/router/3.png){: .align-center width="100%"}
-
-**Note**: Changing the name of the network is optional but recommended, as it heps identify the robot better. In addition, you can also change the network password in **Wireless->Wireless Security**
-{: .notice--info} 
-
-## Address reservation for the Raspberry Pi
-
-The Raspberry Pi has been set up in a [previous step](/ILR/rpi_setup/). To operate normally, the Pi needs to be use a static IP address on the network. This steps goes through adress reservation for the Pi.
-
-1. Make sure the Raspberry Pi is off, and connect it to the router using the ethernet cable.
-
-2. Turn on the Raspberry Pi.
-
-3. On your computer, connect to the router admin interface and go to **DHCP->DHCP Client List**. You should see the raspberry pi in the list of the clients.
-
-![DHCP clients](/ILR/assets/router/5.png){: .align-center width="100%"}
-
-**Note**: The raspberry pi can take a minute or so to connect to the network. Hit *Refresh* if you can't see it.
-{: .notice--info}
-
-4. Copy the MAC address of the Raspberry Pi.
-
-5. In **DHCP->Address Reservation**, hit **Add New**. Create a new address reservation by pasting the MAC address of the Raspberry Pi, setting its IP address to *192.168.0.2*, and setting its status as *Enabled*
-
-![DHCP address reservation](/ILR/assets/router/7.png){: .align-center width="100%"}
-
-**Warning**: The address reservation will take effect only after restarting the router. Next time you restart the router, if you go to **DHCP->DHCP Client List**, the Raspberry Pi should be listed with an IP of *192.168.0.2* and a "permanent" lease time.
-{: .notice--warning}
-
-
-Once these steps are complete, you can proceed to setting up the [Head tablet](/ILR/head_setup).
+Once these steps are complete, you can proceed to setting up the [Tummy tablet](/ILR/tummy_setup).

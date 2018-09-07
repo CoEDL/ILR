@@ -33,7 +33,7 @@ Once your computer is connected to the router local network, open a web browser 
 
 Enter the default login (*admin*) and password (*admin*) to access the router settings page.
 
-**Note**: On TP Link wifi, the interface can also be accessed by typing *tplinkwifi.net/* in the browser. It is also possible to change the admin login and password from this interface (but not necessary for the robot to work).
+**Note**: With the TP Link router, the interface can also be accessed by typing *tplinkwifi.net/* in the browser. It is also possible to change the admin login and password from this interface (but not necessary for the robot to work).
 {: .notice--info}
 
 ## Router settings
@@ -41,7 +41,7 @@ Enter the default login (*admin*) and password (*admin*) to access the router se
 Once in the router settings interface, apply the settings below one by one:
 
 **Warning**: These changes will prompt the router to restart. You will have to connect to it again before you can proceed.
-{: .notice--warning}
+{: .notice--danger}
 
 1. Set the **Operation Mode** as *Access Point*
 
@@ -51,7 +51,7 @@ Once in the router settings interface, apply the settings below one by one:
 
 ![setting access point](/ILR/assets/router/3.png){: .align-center width="100%"}
 
-**Note**: Changing the name of the network is optional but recommended, as it heps identify the robot better. In addition, you can also change the network password in **Wireless->Wireless Security**
+**Note**: Changing the name of the network is optional but recommended, as it helps identify the robot better. In addition, you can also change the network password in **Wireless->Wireless Security**
 {: .notice--info} 
 
 ## Address reservation for the Raspberry Pi
@@ -76,7 +76,7 @@ The Raspberry Pi has been set up in a [previous step](/ILR/rpi_setup/). To opera
 ![DHCP address reservation](/ILR/assets/router/7.png){: .align-center width="100%"}
 
 **Warning**: The address reservation will take effect only after restarting the router. Next time you restart the router, if you go to **DHCP->DHCP Client List**, the Raspberry Pi should be listed with an IP of *192.168.0.2* and a "permanent" lease time.
-{: .notice--warning}
+{: .notice--danger}
 
 
 Once these steps are complete, you can proceed to setting up the [Head tablet](/ILR/head_setup).

@@ -2,49 +2,73 @@
 title: "Tummy tablet setup"
 permalink: /tummy_setup/
 excerpt: "How to quickly install and setup the Tummy Tablet for use in the Indigenous Language Robots project."
-last_modified_at: 2018-07-19T11:31:38-04:00
-redirect_from:
-  - /theme-setup/
+
 toc: true
+toc_icon: "clipboard-list"
+toc_label: "Steps"
+toc_sticky: true
 ---
 
+The tummy tablet is the one that displays all the language activities, as well as plays the language resources. Setting it up is close to how the head tablet is setup.
 
-## Indigenous Language Robots
+**Warning**: You should do the [head tablet setup](/ILR/head_setup) first if you haven't. In particular, the email address that you set up for the robot will be reused
+{: .notice--danger}
 
-Work in progress this is a test
+## Unpacking the tablet
 
-You can use the [editor on GitHub](https://github.com/CoEDL/ILR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The tablet used for the head is a LENOVO 10" tablet. When unpacking it, the box should also contain a micro-usb cable that we will use to power the tablet
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Initialize the tablet
+ 
+When you start the tablet for the first time, you will be asked to link it to a gmail account (cf. what you did for the [head tablet](/ILR/head_setup)). Enter the robot email address (this can be modified later if you make a mistake or change the address).
 
-### Markdown
+The first initialization of the tablet will likely include selecting the tablet language and optionally registering for the LENOVO ID program. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Downloading the app
 
-```markdown
-Syntax highlighted code block
+**Warning**: At this stage, your tablet should be connected to a network with internet access
+{: .notice--danger}
 
-# Header 1
-## Header 2
-### Header 3
+- Make sure you connect your tablet to the internet (you can "drag" the settings menu from the top of the tablet screen to connect to another network).
 
-- Bulleted
-- List
+- Open a web browser, and go to `https://play.google.com/app/testing/com.UQ.ILR`. You should see the following :
 
-1. Numbered
-2. List
+![ILR download](/ILR/assets/tummy/8.png){: .align-center width="75%"}
 
-**Bold** and _Italic_ and `Code` text
+- Hit *Become a tester*. This will take you to a new page confirming that you joined the testing.
 
-[Link](url) and ![Image](src)
+![ILR download](/ILR/assets/tummy/9.png){: .align-center width="75%"}
+
+- Hit *Download it on Google Play*. This will take you to the google play store and give you the option to download the app.
+
+**Note**: When you first open the Google Play store on a new tablet, the tablet may ask you to re-enter the email details. Make sure you use the robot email address.
+{: .notice--info}
+
+- Hit *Accept*. The Google Play store will ask you to grant access to "Wifi connection information" to the app. Hit *Allow* and the app should download.
+
+- Once the app is downloaded, turn on the robot [router](/ILR/router_setup) and connect the tablet to its network (in the example below, the robot network is called *Stripey*)
+
+- When you start the app for the first time, it will ask you to grant the app access to the microphone. Make sure you accept, as the microphone is used to record language productions.
+
+**Note: At this stage, when you start the app, the screen will turn black and nothing will appear. This is normal, as there are currently no language resources on the tablet and the app needs them to work.**
+{: .notice--info}
+
+- **Restart your tablet now.**
+
+## Setting up the Config file 
+
+The `Config.txt` file contains the connection settings that enable the app to connect to the local robot network automatically. 
+
+On your computer, create a text file called `Config.txt` (or modify the `Config.txt` file provided in the startup resources). The content of the file should be following:
+
+```
+{
+"SSID":	"network_name_here",
+"password": "network_password_here"
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Note**: In the file, replace the network name and corresponding password to match those you defined when setting up the [router](/ILR/router_setup)
+{: .notice--info}
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CoEDL/ILR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Uploading resources on the tablet

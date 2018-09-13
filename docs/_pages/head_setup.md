@@ -35,31 +35,31 @@ The first initialization of the tablet will likely include selecting the tablet 
 **Warning**: At this stage, your tablet should be connected to a network with internet access
 {: .notice--danger}
 
-1. Make sure you connect your tablet to the internet (you can "drag" the settings menu from the top of the tablet screen to connect to another network).
+- Make sure you connect your tablet to the internet (you can "drag" the settings menu from the top of the tablet screen to connect to another network).
 
-2. Open a web browser, and go to `https://play.google.com/app/testing/com.UQ.ILR_Head`. You should see the following :
+- Open a web browser, and go to `https://play.google.com/app/testing/com.UQ.ILR_Head`. You should see the following :
 
 ![ILR download](/ILR/assets/head/6.png){: .align-center width="50%"}
 
-3. Hit *Become a tester*. This will take you to a new page confirming that you joined the testing.
+- Hit *Become a tester*. This will take you to a new page confirming that you joined the testing.
 
 ![ILR download](/ILR/assets/head/7.png){: .align-center width="50%"}
 
-4. Hit *Download it on Google Play*. This will take you to the google play store and give you theoption to download the app.
+- Hit *Download it on Google Play*. This will take you to the google play store and give you theoption to download the app.
 
 **Note**: When you first open the Google Play store on a new tablet, the tablet may ask you to re-enter the email details. Make sure you use the robot email address.
 {: .notice--info}
 
-5. Hit *Accept*. The Google Play store will ask you to grant access to "Wifi connection information" to the app. Hit *Allow* and the app should download.
+- Hit *Accept*. The Google Play store will ask you to grant access to "Wifi connection information" to the app. Hit *Allow* and the app should download.
 
 ![ILR download](/ILR/assets/head/9.png){: .align-center width="50%"}
 
-6. Once the app is downloaded, turn on the robot [router](/ILR/router_setup) and connect the tablet to its network (in the example below, the robot network is called *Stripey*)
+- Once the app is downloaded, turn on the robot [router](/ILR/router_setup) and connect the tablet to its network (in the example below, the robot network is called *Stripey*)
 
 ![ILR download](/ILR/assets/head/11.png){: .align-center width="50%"}
 
-7. When you start the app, you should now see the following appear:
+- When you start the app, you should now see the following appear:
 
-![ILR download](/ILR/assets/head/12.png){: .align-center width="80%"}
+![ILR download](/ILR/assets/head/12.png){: .align-center width="75%"}
 
 Once these steps are complete, you can proceed to setting up the [Tummy tablet](/ILR/tummy_setup).

@@ -71,30 +71,63 @@ On your computer, create a text file called `Config.txt` (or modify the `Config.
 **Note**: In the file, replace the network name and corresponding password to match those you defined when setting up the [router](/ILR/router_setup)
 {: .notice--info}
 
+![Config file](/ILR/assets/tummy/configsetup.gif){: .align-center width="90%"}
+
 ## Uploading resources on the tablet
 
+As part of the resources necessary to set up the robot, you should have a `start_up_resources` folder. The folder contains the Config.txt file (you should replace it with  the one you have created in the previous step) and some language resources (French is provided)
 
-
-I followed an example in another repository and wrapped the directory structure within a pair of triple backticks (```):
+The startup resources folder should have the following structure:
 
 ```
-project
-│   README.md
-│   file001.txt    
-│
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
+start_up_resources
 │   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+│   Config.txt    
+│
+└───ExternalAssets
+    │
+    └───Instructions
+    │   │   greetings.wav
+    │   │   instructions_recall.wav
+    │   │   ...
+    │
+	└───French
+	    │
+		└───pictures
+        │   │   pic0.jpg
+		│   │   ...
+		│
+		└───sounds
+        │   │   word0.wav
+		│   │   ...
+		│
+		└───story
+        │   └───masks
+		│   └───pictures
+		│   └───sounds
+		│
+		└───translations
+		│   
+		└───words
 ```
+
+**Note**: When you create your own language resources (for instance using [Hermes](https://github.com/CoEDL/hermes)), they should be placed in a folder named after the language in the ExternalAssets folder
+{: .notice--info}
+
+- Restart the tummy tablet and connect it to your computer using the micro-usb cable
+
+- Copy the content of the `start_up_resources` folder (including the `Config.txt` file and the `ExternalAssets` folder)
+
+- Using the file explorer on your computer, navigate in the tablet memory to *Android->data->com.UQ.ILR->files*
+
+**Warning**: If you can't find the *com.UQ.ILR* folder, it means that you probably haven't restarted the tablet correctly (or haven't installed the app)
+{: .notice--danger}
+
+- Drop the content of the `start_up_resources` folder at this location.
+
+**Note**: It is useful to note that this location on the tablet (*Android->data->com.UQ.ILR->files*) is also where the raw user logs can be found, when the robot is being used (individual folders will be created, corresponding to each profile on the robot) 
+{: .notice--info}
+
 
 
 

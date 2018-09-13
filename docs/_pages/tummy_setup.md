@@ -2,6 +2,7 @@
 title: "Tummy tablet setup"
 permalink: /tummy_setup/
 excerpt: "How to quickly install and setup the Tummy Tablet for use in the Indigenous Language Robots project."
+date: 2018-13-09
 
 toc: true
 toc_icon: "clipboard-list"

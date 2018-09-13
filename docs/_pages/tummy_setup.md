@@ -2,7 +2,7 @@
 title: "Tummy tablet setup"
 permalink: /tummy_setup/
 excerpt: "How to quickly install and setup the Tummy Tablet for use in the Indigenous Language Robots project."
-date: 2018-13-09
+date: 2018-09-13T04:04:41+00:00
 
 toc: true
 toc_icon: "clipboard-list"
@@ -132,5 +132,8 @@ start_up_resources
 ![Config file](/ILR/assets/tummy/dropresources.gif){: .align-center width="100%"}
 
 - The app is ready to be used on the tablet !
+
+
+Once these steps are complete, if you have not done it, proceed to [pair the Tummy tablet with the speaker](/ILR/speaker_setup).
 
 

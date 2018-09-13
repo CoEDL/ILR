@@ -10,7 +10,6 @@ toc_label: "Steps"
 toc_sticky: true
 ---
 
-<i class="fa fa-long-arrow-right"></i>
 
 The speaker ensures that the sound can be loud enough for use in public spaces (e.g. classroom). The speaker we use for the project is a *Sony SRS-XB10*, and should be paired with the [Tummy tablet](/ILR/tummy_setup) by following the steps described below.
 
@@ -20,11 +19,13 @@ The tablet used for the head is a *Sony SRS-XB10* speaker. When unpacking it, th
 
 ## Pairing the speaker with the tablet : speaker side
  
-- Turn on the speaker by pressing the 
+- Turn on the speaker by pressing the <i class="fas fa-power-off"></i> button
+
+- Press and hold the <i class="fas fa-power-off"></i> button to prepare the speaker for pairing. The speaker should make a "beep" sound, and the LED indicator should start blinking
  
 ![speaker pairing](/ILR/assets/speaker/speaker.png){: .align-center width="75%"}
 
-## Downloading the app
+## Pairing the speaker with the tablet : tablet side
 
 **Warning**: At this stage, your tablet should be connected to a network with internet access
 {: .notice--danger}

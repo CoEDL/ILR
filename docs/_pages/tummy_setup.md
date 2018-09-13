@@ -72,3 +72,29 @@ On your computer, create a text file called `Config.txt` (or modify the `Config.
 {: .notice--info}
 
 ## Uploading resources on the tablet
+
+
+
+I followed an example in another repository and wrapped the directory structure within a pair of triple backticks (```):
+
+```
+project
+│   README.md
+│   file001.txt    
+│
+└───folder1
+│   │   file011.txt
+│   │   file012.txt
+│   │
+│   └───subfolder1
+│       │   file111.txt
+│       │   file112.txt
+│       │   ...
+│   
+└───folder2
+    │   file021.txt
+    │   file022.txt
+```
+
+
+

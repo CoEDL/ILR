@@ -71,7 +71,7 @@ On your computer, create a text file called `Config.txt` (or modify the `Config.
 **Note**: In the file, replace the network name and corresponding password to match those you defined when setting up the [router](/ILR/router_setup)
 {: .notice--info}
 
-![Config file](/ILR/assets/tummy/configsetup.gif){: .align-center width="90%"}
+![Config file](/ILR/assets/tummy/configsetup.gif){: .align-center width="100%"}
 
 ## Uploading resources on the tablet
 
@@ -91,24 +91,24 @@ start_up_resources
     │   │   instructions_recall.wav
     │   │   ...
     │
-	└───French
-	    │
-		└───pictures
+    └───French
+        │
+        └───pictures
         │   │   pic0.jpg
-		│   │   ...
-		│
-		└───sounds
+        │   │   ...
+        │
+        └───sounds
         │   │   word0.wav
-		│   │   ...
-		│
-		└───story
+        │   │   ...
+        │
+        └───story
         │   └───masks
-		│   └───pictures
-		│   └───sounds
-		│
-		└───translations
-		│   
-		└───words
+        │   └───pictures
+        │   └───sounds
+        │
+        └───translations
+        │   
+        └───words
 ```
 
 **Note**: When you create your own language resources (for instance using [Hermes](https://github.com/CoEDL/hermes)), they should be placed in a folder named after the language in the ExternalAssets folder
@@ -128,6 +128,8 @@ start_up_resources
 **Note**: It is useful to note that this location on the tablet (*Android->data->com.UQ.ILR->files*) is also where the raw user logs can be found, when the robot is being used (individual folders will be created, corresponding to each profile on the robot) 
 {: .notice--info}
 
+![Config file](/ILR/assets/tummy/dropresources.gif){: .align-center width="100%"}
 
+- The app is ready to be used on the tablet !
 
 

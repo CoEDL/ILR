@@ -12,5 +12,7 @@ pages:
         url: /head_setup/
       - title: "Tummy Tablet setup"
         url: /tummy_setup/
+      - title: "Speaker setup"
+        url: /speaker_setup/
       - title: "Final assembly"
         url: /assembly/

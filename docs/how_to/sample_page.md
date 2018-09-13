@@ -2,6 +2,7 @@
 #The page title, displayed at the top of the page and the browser
 title: "Sample page"
 excerpt: "How to quickly install and setup an Indigenous Language Robot."
+date: 2018-09-13T04:04:41+00:00
 
 # permalink to the page. The current setting will set the link to https://coedl.github.io/ILR/sample_page/
 permalink: /sample_page/
@@ -11,6 +12,7 @@ toc: false
 toc_icon: "clipboard-list"
 toc_label: "Steps"
 toc_sticky: true
+
 
 # Set to true to enable social made sharing buttons at the bottom of the page
 share: false

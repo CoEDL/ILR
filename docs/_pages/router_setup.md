@@ -2,7 +2,7 @@
 title: "Router Setup"
 permalink: /router_setup/
 excerpt: "How to quickly install and setup the router for use in the Indigenous Language Robots project."
-
+date: 2018-09-12T04:04:41+00:00
 
 toc: true
 toc_icon: "clipboard-list"

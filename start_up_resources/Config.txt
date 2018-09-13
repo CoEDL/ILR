@@ -1,0 +1,4 @@
+{
+"SSID":	"enter_network_name_here",
+"password": "enter_password_here"
+}

@@ -2,7 +2,7 @@
 title: "Head tablet Setup"
 permalink: /head_setup/
 excerpt: "How to quickly install and setup the head tablet for use in the Indigenous Language Robots project."
-
+date: 2018-09-08T04:04:41+00:00
 
 toc: true
 toc_icon: "clipboard-list"

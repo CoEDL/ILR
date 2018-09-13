@@ -2,6 +2,8 @@
 title: "Indigenous Language Robots Documentation"
 permalink: /
 excerpt: "How to quickly install and setup an Indigenous Language Robot."
+date: 2018-09-13T04:04:41+00:00
+
 toc: false
 share: false
 gallery:

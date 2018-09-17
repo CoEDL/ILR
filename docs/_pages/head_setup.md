@@ -22,7 +22,7 @@ The apps for the head and tummy tablet will be downloaded from the Google Play S
 
 Create an email address for the robot, and make sure you keep records of the address and password. 
 
-**Warning**: The head and tummy apps are currently available only as a closed released. This means the address you use to download them must be registered before you can doanload the app. If you have created a new address at this stage, contact the ILR team and ask them to add the mail address to the list of testers.
+**Warning**: The head and tummy apps are currently available only as a closed released. This means the address you use to download them must be registered before you can download the app. If you have created a new address at this stage, contact the ILR team and ask them to add the mail address to the list of testers.
 {: .notice--danger}
 
 ![gmail connecting](/ILR/assets/head/1.png){: .align-left width="50%"}  
@@ -45,7 +45,7 @@ The first initialization of the tablet will likely include selecting the tablet 
 
 ![ILR download](/ILR/assets/head/7.png){: .align-center width="50%"}
 
-- Hit *Download it on Google Play*. This will take you to the google play store and give you theoption to download the app.
+- Hit *Download it on Google Play*. This will take you to the google play store and give you the option to download the app.
 
 **Note**: When you first open the Google Play store on a new tablet, the tablet may ask you to re-enter the email details. Make sure you use the robot email address.
 {: .notice--info}

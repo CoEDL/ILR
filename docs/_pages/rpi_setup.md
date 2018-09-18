@@ -18,7 +18,7 @@ For this step, you will need:
 
 - A Raspberry Pi 3
 
-- A micro-SD card for the Raspberry Pi (16GB)
+- A micro-SD card for the Raspberry Pi (16GB minimum !)
 
 - A computer with a micro-SD card reader
 
@@ -35,7 +35,7 @@ The tool we recommend using for this step is Etcher, which you can [download her
 
 - Start Etcher. The interface should look like this:
 
-![Etcher interface](/ILR/assets/rpi/etcher.png){: .align-center width="75%"}
+![Etcher interface](/ILR/assets/rpi/etcher.png){: .align-center width="80%"}
 
 - Click on *Select image* and select the `.zip` image provided.
 
@@ -48,7 +48,7 @@ The tool we recommend using for this step is Etcher, which you can [download her
 
 - Once the SD card is ready, take it out of your computer, and insert it in the Raspberry Pi. The SD card should be inserted in the slot at the back of the Pi, with the text facing up (see picture). 
 
-![rpi SD card](/ILR/assets/rpi/rpi.jpg){: .align-center width="50%"}
+![rpi SD card](/ILR/assets/rpi/rpi.jpg){: .align-center width="60%"}
 
 **Warning**: Be careful not to force too much when inserting the SD card, as you might damage the card and/or the Pi. The SD card will not slide in entirely (see picture).
 {: .notice--danger}  

@@ -8,3 +8,5 @@ share: false
 
 This will contain the instructions to assemble the robot, once all the other parts are ready.
 
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
+

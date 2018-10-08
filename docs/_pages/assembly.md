@@ -8,4 +8,3 @@ share: false
 
 This will contain the instructions to assemble the robot, once all the other parts are ready.
 
-<iframe src="https://www.youtube.com/watch?v=NVydSHjJKus" width="560" height="315" frameborder="0"> </iframe>

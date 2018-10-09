@@ -41,10 +41,11 @@ Follow these steps
 ## *The Polymers*
 
 
-# *The tummy tablet and holder*{: style="color: red"}.
+# *The tummy tablet and holder*
 
 
 {% include video id="kf7vZNburGo" provider="youtube" %}
+
 
 You will need:
 
@@ -65,7 +66,7 @@ Follow these steps
 # *The head tablet and holder*
 
 
-<iframe src="https://www.youtube.com/embed/1amK3BjdBJY" width="560" height="315" frameborder="0"> </iframe>
+{% include video id="1amK3BjdBJY" provider="youtube" %}
 
 
 You will need:
@@ -87,7 +88,7 @@ Follow these steps
 # *Electronics placement*
 
 
-<iframe src="https://www.youtube.com/embed/y-IM5sGQgJo" width="560" height="315" frameborder="0"> </iframe>
+{% include video id="y-IM5sGQgJo" provider="youtube" %}
 
 
 You will need:
@@ -117,7 +118,7 @@ Follow these steps
 # *Electronics wiring*
 
 
-<iframe src="https://www.youtube.com/embed/kN0qFVDIK9A" width="560" height="315" frameborder="0"> </iframe>
+{% include video id="kN0qFVDIK9A" provider="youtube" %}
 
 
 You will need:

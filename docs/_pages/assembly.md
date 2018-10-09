@@ -9,7 +9,7 @@ share: false
 The hardware assembly is made out of two parts, "The Woods" and "The Polymers". In the sections below a step by step assembly procedure will be presented and the components required on each step will also be listed.
 If you fell adventurous and just want to see how the whole assembly is constructed on a mute video with an awesome demonstrator please watch carefully the video below, otherwise continue down the page.
 
-<iframe src="https://www.youtube.com/embed/NVydSHjJKus" width="560" height="315" frameborder="0"> </iframe>
+<iframe src="https://www.youtube.com/embed/NVydSHjJKus" width="448" height="252" frameborder="0"> </iframe>
 
 **Warning**: There have been reports of some users completing the entire assembly with no instructions in less than 20 minutes!!
 {: .notice--danger}
@@ -37,6 +37,8 @@ Follow this steps
 {: .notice--info}
 
 ## *The Polymers*
+
+# The tummy tablet and holder
 You will need:
 - Lenovo tab 10 tablet
 - Tablet holder
@@ -46,9 +48,36 @@ You will need:
 Follow this steps
 1. Use two of the M3 screws and loosely fasten the bottom screws
 1. Place the tablet inside the holder taking care that the rear camera sits at the top and unobstructed  (*this is only to make sure that the orientation is correct, in fact the camera is not used in any of the robot apps*)
-1. Fasten firmly the bottom screws and insert the remaining two screws taking care of not over tighten any of the screws, this can cause the embedded nuts to come loose
+1. Fasten firmly the bottom screws and insert the remaining two screws
 
+**Warning**: take care of not over tighten any of the screws, this can cause the embedded nuts to come loose
+{: .notice--danger}
 
-# The tummy tablet and holder
+# The head tablet and holder
 
 {% include video id="kf7vZNburGo" provider="youtube" %}
+
+<iframe src="https://www.youtube.com/embed/1amK3BjdBJY" width="560" height="315" frameborder="0"> </iframe>
+
+You will need:
+- Lenovo tab 7 tablet
+- Tablet holder
+- Four of the M3x20mm screws included in your *polymer bag*
+- M2 hex key included in your *polymer bag*
+
+Follow this steps
+1. Use two of the M3 screws and loosely fasten the bottom screws
+1. Place the tablet inside the holder taking care that on/off button faces the top of the robot  
+1. Fasten firmly the bottom screws and insert the remaining two screws. 
+
+**Warning**: take care of not over tighten any of the screws, this can cause the embedded nuts to come loose
+{: .notice--danger}
+
+# Electronics placement
+<iframe src="https://www.youtube.com/embed/y-IM5sGQgJo" width="560" height="315" frameborder="0"> </iframe>
+
+# Electronics wiring
+<iframe src="https://www.youtube.com/embed/kN0qFVDIK9A" width="560" height="315" frameborder="0"> </iframe>
+
+
+

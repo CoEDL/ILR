@@ -38,10 +38,11 @@ Follow these steps
 **Note**: The pins are first used to join the parts and the wedges are used to secure them together
 {: .notice--info}
 
-## <title size = 10>*The Polymers* </title>
+## *The Polymers*
 
 
-# The tummy tablet and holder
+# *The tummy tablet and holder*{: style="color: red"}.
+
 
 {% include video id="kf7vZNburGo" provider="youtube" %}
 
@@ -61,9 +62,11 @@ Follow these steps
 **Warning**: take care of not over tighten any of the screws, this can cause the embedded nuts to come loose
 {: .notice--danger}
 
-# The head tablet and holder
+# *The head tablet and holder*
+
 
 <iframe src="https://www.youtube.com/embed/1amK3BjdBJY" width="560" height="315" frameborder="0"> </iframe>
+
 
 You will need:
 
@@ -81,9 +84,11 @@ Follow these steps
 **Warning**: take care of not over tighten any of the screws, this can cause the embedded nuts to come loose
 {: .notice--danger}
 
-# Electronics placement
+# *Electronics placement*
+
 
 <iframe src="https://www.youtube.com/embed/y-IM5sGQgJo" width="560" height="315" frameborder="0"> </iframe>
+
 
 You will need:
 
@@ -109,8 +114,11 @@ Follow these steps
 {: .notice--danger}
 
 
-# Electronics wiring
+# *Electronics wiring*
+
+
 <iframe src="https://www.youtube.com/embed/kN0qFVDIK9A" width="560" height="315" frameborder="0"> </iframe>
+
 
 You will need:
 

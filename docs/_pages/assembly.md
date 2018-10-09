@@ -24,7 +24,8 @@ For this step you'll need the folowing:
 - The wedge/pins included in your *polymer bag*
 - Four of the M3x16mm screws included in your *polymer bag*
 - Four wing nuts included in your *polymer bag*
-Assemble the feet and back support first, then place the torso board, find the 
+Assemble the feet and back support first, then place the torso board, find the
+
 {% include video id="TKrcnoL2VAM" provider="youtube" %}
 
 

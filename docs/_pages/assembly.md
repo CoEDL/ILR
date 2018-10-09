@@ -21,6 +21,7 @@ For this step you'll need:
 - The pins and wedges included in your *polymer bag*
 - Four of the M3x16mm screws included in your *polymer bag*
 - Four wing nuts included in your *polymer bag*
+
 Assemble the feet and rear feet brace first, then place the torso board taking care that the torso panel faces the right way (*rightway = countersunk holes face the user*), find the rear braces *notice that the side with the semicircular pattern clips onto the torso*. then fasten the torso and the rear braces together using the m3x16mm screws and the wing nuts.
 After completing the torso fastening, find the rear diagonal braces and the wooden pins. the diagonal braces will connect the feet and the rear braces. fastening them is done using the wodden pins and wedges as shown in the video. (notice that the pins are used first to join the parts and the wedges are used to secure them together)
 Once the pins and wedges have been placed in their corrresponding slots, find the head and proceed to follow the same instructions as per the torso assembly.

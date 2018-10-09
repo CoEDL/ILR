@@ -6,6 +6,12 @@ toc: false
 share: false
 ---
 
+toc: true
+toc_icon: "clipboard-list"
+toc_label: "Steps"
+toc_sticky: true
+---
+
 The hardware assembly is made out of two parts, "The Woods" and "The Polymers". In the sections below a step by step assembly procedure will be presented and the components required on each step will also be listed.
 If you fell adventurous and just want to see how the whole assembly is constructed on a mute video with an awesome demonstrator please watch carefully the video below, otherwise continue down the page.
 

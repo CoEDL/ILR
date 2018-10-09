@@ -19,12 +19,14 @@ If you fell adventurous and just want to see how the whole assembly is construct
 {% include video id="TKrcnoL2VAM" provider="youtube" %}
 
 You will need:
+
 - All *The Woods* found in NgOpie carrying case
 - The pins and wedges included in your *polymer bag*
 - Four of the M3x16mm screws included in your *polymer bag*
 - Four wing nuts included in your *polymer bag*
 
-Follow this steps
+Follow these steps
+
 1. Assemble the feet and rear feet brace first
 1. Place the torso board taking care that the torso panel faces the right way (*rightway = countersunk holes face the user*) 
 1. Find the rear braces *notice that the side with the semicircular pattern clips onto the torso*
@@ -36,16 +38,22 @@ Follow this steps
 **Note**: The pins are first used to join the parts and the wedges are used to secure them together
 {: .notice--info}
 
-## *The Polymers*
+## <title size = 10>*The Polymers* </title>
+
 
 # The tummy tablet and holder
+
+{% include video id="kf7vZNburGo" provider="youtube" %}
+
 You will need:
+
 - Lenovo tab 10 tablet
 - Tablet holder
 - Four of the M3x25mm screws included in your *polymer bag*
 - M2 hex key included in your *polymer bag*
 
-Follow this steps
+Follow these steps
+
 1. Use two of the M3 screws and loosely fasten the bottom screws
 1. Place the tablet inside the holder taking care that the rear camera sits at the top and unobstructed  (*this is only to make sure that the orientation is correct, in fact the camera is not used in any of the robot apps*)
 1. Fasten firmly the bottom screws and insert the remaining two screws
@@ -55,17 +63,17 @@ Follow this steps
 
 # The head tablet and holder
 
-{% include video id="kf7vZNburGo" provider="youtube" %}
-
 <iframe src="https://www.youtube.com/embed/1amK3BjdBJY" width="560" height="315" frameborder="0"> </iframe>
 
 You will need:
+
 - Lenovo tab 7 tablet
 - Tablet holder
 - Four of the M3x20mm screws included in your *polymer bag*
 - M2 hex key included in your *polymer bag*
 
-Follow this steps
+Follow these steps
+
 1. Use two of the M3 screws and loosely fasten the bottom screws
 1. Place the tablet inside the holder taking care that on/off button faces the top of the robot  
 1. Fasten firmly the bottom screws and insert the remaining two screws. 
@@ -74,10 +82,47 @@ Follow this steps
 {: .notice--danger}
 
 # Electronics placement
+
 <iframe src="https://www.youtube.com/embed/y-IM5sGQgJo" width="560" height="315" frameborder="0"> </iframe>
+
+You will need:
+
+- Ethernet cable
+- Raspberry Pi
+- Router
+- USB power supply
+- Speaker
+- Two of the M3x25mm screws included in your *polymer bag*
+- M2 hex key included in your *polymer bag*
+
+Follow these steps
+
+1. Place the ethernet cable in the left most slot of the holder between the square groves 
+1. Place the RaspberryPi with its USB and Ethernet terminals facing upwards in the left most slot where the ethernet cable is. Make sure that the ethernet cable is sitting inside the groves 
+1. Place the router with is terminals facing down in the middle slot of the holder
+1. Place the USB power supply with the USB terminals facing up in the rightmost slot inside the holder 
+1. Place the speaker with the power and USB terminal facing up inside the circular slot of the holder
+1. Flip the speaker holder up towards the tablet
+1. Secure the speaker holder using the M3x25mm screws. Fasten firmly
+
+**Warning**: take care of not over tighten any of the screws, this can cause the embedded nuts to come loose
+{: .notice--danger}
+
 
 # Electronics wiring
 <iframe src="https://www.youtube.com/embed/kN0qFVDIK9A" width="560" height="315" frameborder="0"> </iframe>
+
+You will need:
+
+- 1x Ethernet cable
+- 5x USB cables
+- 1x IEC C13 power cable
+
+Follow these steps
+
+1. Place the ethernet cable in the router socket
+1. Connect as you desire the USB powered-components (order does not matter) 
+1. Connect USB power supply socket with the IEC C13 power cable
 
 
 

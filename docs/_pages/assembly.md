@@ -1,10 +1,8 @@
 ﻿---
 title: "Hardware assembly of the Indigenous Language Robot"
 permalink: /assembly/
-excerpt: "Hardware assembly of the Indigenous Language Robot."
-toc: false
-share: false
----
+excerpt: "How to quickly install and setup the Raspberry Pi for use in the Indigenous Language Robots project."
+date: 2018-09-12T04:04:41+00:00
 
 toc: true
 toc_icon: "clipboard-list"

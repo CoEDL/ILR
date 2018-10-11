@@ -14,5 +14,5 @@ pages:
         url: /tummy_setup/
       - title: "Speaker setup"
         url: /speaker_setup/
-      - title: "Final assembly"
+      - title: "Hardware assembly"
         url: /assembly/

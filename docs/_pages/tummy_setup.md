@@ -131,7 +131,7 @@ start_up_resources
 
 ![Config file](/ILR/assets/tummy/dropresources.gif){: .align-center width="100%"}
 
-- The app is ready to be used on the tablet !
+- The app is ready to be used on the tablet!
 
 
 Once these steps are complete, if you have not done it, proceed to [pair the Tummy tablet with the speaker](/ILR/speaker_setup).

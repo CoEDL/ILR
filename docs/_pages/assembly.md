@@ -139,6 +139,6 @@ Follow these steps
 
 
 # *The electronics-detailed photo descriptions*
-follow the link bellow for photos describing the electronics necessary to build the robot
-[Photos](https://drive.google.com/drive/folders/1-2Tw5RF_OVnBF3zUgt5CQW1Xv5xcDdmU?usp=sharing)
+follow this [link](https://drive.google.com/drive/folders/1-2Tw5RF_OVnBF3zUgt5CQW1Xv5xcDdmU?usp=sharing) for photos describing the electronics necessary to build the robot
+
 
